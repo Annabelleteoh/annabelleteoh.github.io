@@ -1,4 +1,6 @@
-# Installing VSCode
+# Lab Report 1
+
+## Installing VSCode
 
 1. Go to https://code.visualstudio.com/ and follow the instructions to download it onto your computer
 2. Once installed, open VS Code on your computer. You should see something like this:
@@ -6,7 +8,7 @@
 ![Image](https://github.com/Annabelleteoh/annabelleteoh.github.io/blob/main/Screenshot%202023-04-05%20at%203.18.39%20PM.png) 
 
 
-# Remotely Connecting
+## Remotely Connecting
 
 1. Open your MacOS Terminal
 2. Input this into your terminal: `$ ssh cs15lsp23zz@ieng6.ucsd.edu` but change the `zz` to your own unique letters in your account username. If you are connecting to the server for the first time, you should see this message:
@@ -50,7 +52,7 @@ Sun Jan 02, 2022 11:28pm - Prepping cs15lsp23
 
 If you see these messages, you should be logged in successfully!
 
-# Trying Some Commands
+## Trying Some Commands
 
 Next, try running these commands on your terminal:
 
