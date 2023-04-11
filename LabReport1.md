@@ -50,7 +50,10 @@ ieng6-203   23:25:01   1  0.08,  0.15,  0.11
 Sun Jan 02, 2022 11:28pm - Prepping cs15lsp23
 ```
 
-If you see these messages, you should be logged in successfully!
+If you see these messages, you should be logged in successfully! I personally wasn't able to past this part. I reset my account with a different password a few times, and tried it with the new username too; however, it still keeps prompting me to enter my password in again as seen here:
+
+![Image](https://github.com/Annabelleteoh/annabelleteoh.github.io/blob/main/Screenshot%202023-04-10%20at%207.30.57%20PM.png)
+
 
 ## Trying Some Commands
 
@@ -63,3 +66,6 @@ Next, try running these commands on your terminal:
 5. `ls <directory>` where `directory` is `/home/linux/ieng6/cs15lsp23/cs15lsp23abc` where `abc` is one of the other group members' name 
 6.  `cp /home/linux/ieng6/cs15lsp23/public/hello.txt ~/`
 7. `cat /home/linux/ieng6/cs15lsp23/public/hello.txt`
+
+
+There is no screenshot here because I wasn't able to get past the connecting part.
