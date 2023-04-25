@@ -86,3 +86,18 @@ class StringServer {
         Server.start(port, new Handler());
     }
 }
+
+
+
+
+# Part 2
+## Screenshot of code
+## Failure inducing input
+## An input that doesn't induce a failure
+## Symptom
+## Bug
+
+
+# Part 3
+I learned the different parts of a URL, such as the domain, path, and query. The domain of the URL is the part after the https:// and before the /. The / marks the beginning of the path, and ends at the ?. The ? marks the beginning of the query.
+I also learned how to create a web server and how to manipulate its behavior based on the path and query given. 
