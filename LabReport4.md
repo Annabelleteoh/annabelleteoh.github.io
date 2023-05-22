@@ -3,6 +3,10 @@
 
 ## Step 4 - Log into ieng6
 
+Keys pressed: `ssh cs15lsp23zz@ieng6.ucsd.edu`
+
+![Image](https://github.com/Annabelleteoh/at.github.io/blob/main/login%20to%20ieng6%20w:o%20password.png)
+
 ## Step 5 - Clone your fork of the repository from your Github account
 Keys pressed: <Command-C> git clone https://github.com/Annabelleteoh/lab7
  
