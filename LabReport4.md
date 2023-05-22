@@ -20,15 +20,13 @@ Keys pressed: I hit <Command-C> to copy the `javac -cp .:lib/hamcrest-core-1.3.j
 ## Step 7 - Edit the code file to fix the failing test
 Keys pressed: 
   
-`vim ListExamples.java` <enter> 
+`vim ListExamples.java` <enter> in order to edit the ListExamples file via the command line
   
-<down> all the way to the last index1 variable in merge, <right><right><right><right><right><right> to move cursor over "1" <x> to delete "1"
-
-<a> <2> to append "2"
+<down> all the way to the last index1 variable in merge, <right><right><right><right><right><right> to move cursor over "1" <x> to delete "1" and <a> <2> to append "2". This concludes all changes/edits made to the file.
   
 <esc> to go back to normal mode
   
-<:wq> to save
+<:wq> to save file
  
  ![Image](https://github.com/Annabelleteoh/at.github.io/blob/main/file%20changes.png)
   
@@ -39,3 +37,9 @@ Keys pressed: <up><up><up><enter> the `javac -cp .:lib/hamcrest-core-1.3.jar:lib
 [Image](https://github.com/Annabelleteoh/at.github.io/blob/main/test%20sucess.png)
 
 ## Step 9 - Commit and push the resulting change to your Github account (you can pick any commit message!)
+ 
+ Keys pressed: 
+ 
+ `git add .` to stage all of the files in current directory
+ `git commit` to move files from staging area to local repo
+ `git push` to push changes to git
