@@ -22,7 +22,7 @@ Keys pressed:
   
 `vim ListExamples.java` <enter> in order to edit the ListExamples file via the command line
   
-<down> all the way to the last index1 variable in merge, <right><right><right><right><right><right> to move cursor over "1" <x> to delete "1" and <a> <2> to append "2". This concludes all changes/edits made to the file.
+<down> all the way to the last index1 variable in merge, <right> <right> <right> <right> <right> <right> to move cursor over "1" <x> to delete "1" and <a> <2> to append "2". This concludes all changes/edits made to the file.
   
 <escape> to go back to normal mode
   
