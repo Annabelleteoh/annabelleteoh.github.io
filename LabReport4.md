@@ -34,7 +34,7 @@ Keys pressed:
   
 Keys pressed: <up><up><up><enter> the `javac -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar *.java` command was 3 up in the search history, so I used up arrow to access it. Then the `java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.runner.JUnitCore ListExamplesTests` command was 3 up in the history, so I accessed and ran it in the same way.
   
-[Image](https://github.com/Annabelleteoh/at.github.io/blob/main/test%20sucess.png)
+![Image](https://github.com/Annabelleteoh/at.github.io/blob/main/test%20sucess.png)
 
 ## Step 9 - Commit and push the resulting change to your Github account (you can pick any commit message!)
  
